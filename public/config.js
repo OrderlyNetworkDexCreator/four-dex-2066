@@ -12,7 +12,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_ABSTRACT_WALLET": "false",
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
-  "VITE_WALLETCONNECT_PROJECT_ID": "2714c9352c68e077aebbef215812e357",
+  "VITE_WALLETCONNECT_PROJECT_ID": "20b13e4e436c70436f2ac366cf1aaca4",
   "VITE_APP_NAME": "Four dex",
   "VITE_APP_DESCRIPTION": "AI based next-gen leverage trading ecosystem on Binance Smart Chain.",
   "VITE_HAS_PRIMARY_LOGO": "true",
