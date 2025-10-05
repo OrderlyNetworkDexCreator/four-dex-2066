@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/FOURDEX_BSC",
   "VITE_SEO_SITE_NAME": "Four Dex",
   "VITE_SEO_SITE_DESCRIPTION": "AI based next-gen leverage trading ecosystem on Binance Smart Chain.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/four-dex-2066/",
+  "VITE_SEO_SITE_URL": "https://fourdex.app",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@FOURDEX_BSC",
